@@ -1,7 +1,6 @@
 // Roblox Version: version-f9977b146957492c
 // Byfron Version: HYPV4.4.2.0
 // Dumped By sfcjordon On discord!
-namespace offsets {
     inline constexpr uintptr_t Adornee = 0xC8;
     inline constexpr uintptr_t Anchored = 0x311;
     inline constexpr uintptr_t AnimationId = 0xC8;
@@ -124,4 +123,3 @@ namespace offsets {
     inline constexpr uintptr_t WalkSpeedCheck = 0x3A0;
     inline constexpr uintptr_t Workspace = 0x150;
     inline constexpr uintptr_t viewmatrix = 0x4D0;
-}
