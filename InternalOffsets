@@ -1,23 +1,9 @@
-const uintptr_t rbx_print = 0x13F3280
-const uintptr_t rbx_taskdefer = 0xF0ADE0
-const uintptr_t rbx_taskspawn = 0xF0B0E0
-const uintptr_t rbx_taskdelay = 0xF0B440
-const uintptr_t rbx_luavmload = 0xB39620
-const uintptr_t rbx_getglobalstate = 0xD46D10
-const uintptr_t rbx_decryptluastate = 0xB36630
-const uintptr_t rbx_luaL_register = 0x233BD30
-const uintptr_t rbx_lua_pushvalue = 0x2334300
-const uintptr_t rbx_luaO_pushvfstring = 0x23B0820
-const uintptr_t rbx_luaL_checklstring = 0x2339D50
-const uintptr_t rbx_luaA_toobject = 0x23343D0
-const uintptr_t rbx_luaM_visitgco = 0x0
-const uintptr_t rbx_luaL_getmetafield = 0x233A260
-const uintptr_t rbx_luau_execute = 0x2381AE0
-const uintptr_t rbx_pushinstance = 0xE1B850 or 0xE1B8A0 // both should work
-const uintptr_t rbx_getproperty = 0xA444A0
-const uintptr_t rbx_fireclickdetector = 0x1A26760
-const uintptr_t rbx_luaC_step = 0x237F260
-
-const uintptr_t luaO_nilobject = 0x420F268
-const uintptr_t dummynode = 0x420E818
-const uintptr_t ktable = 0x57F5050
+// There was a error catching offsets ( RobloxMemory WINAPI Error Contact (sfcjordon on discord)
+// There was a error catching offsets ( RobloxMemory WINAPI Error Contact (sfcjordon on discord)
+// There was a error catching offsets ( RobloxMemory WINAPI Error Contact (sfcjordon on discord)
+// There was a error catching offsets ( RobloxMemory WINAPI Error Contact (sfcjordon on discord)
+// There was a error catching offsets ( RobloxMemory WINAPI Error Contact (sfcjordon on discord)
+// There was a error catching offsets ( RobloxMemory WINAPI Error Contact (sfcjordon on discord)
+// There was a error catching offsets ( RobloxMemory WINAPI Error Contact (sfcjordon on discord)
+// There was a error catching offsets ( RobloxMemory WINAPI Error Contact (sfcjordon on discord)
+// There was a error catching offsets ( RobloxMemory WINAPI Error Contact (sfcjordon on discord)
